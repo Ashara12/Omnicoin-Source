@@ -7,8 +7,7 @@ Visit the [Omnicoin Wiki](https://github.com/Omnicoin-Project/Omnicoin/wiki) for
 
 ## Contributors
 - [Crypto Miner](http://www.hackforums.net/member.php?action=profile&uid=1302310)
-- [Caffeinewriter](http://brandonanzaldi.com/)
-- [Doctor Blue](http://www.hackforums.net/member.php?action=profile&uid=1439038)
-- [MeshCollider](http://www.hackforums.net/member.php?action=profile&uid=2015410)
-- Pillows
-- emanb29
+- [Caffeinewriter](https://github.com/caffeinewriter)
+- [Doctor Blue](https://github.com/DoctorBlue)
+- [MeshCollider](https://github.com/MeshCollider)
+- [emanb29](https://github.com/emanb29)
